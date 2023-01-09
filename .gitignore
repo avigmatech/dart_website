@@ -13,7 +13,6 @@ _site/
 .packages
 .pub
 .spelling
-.vscode
 *.cache
 *.iml
 *.js.deps
@@ -30,3 +29,7 @@ tmp
 # Misc
 trash
 /src/_data/ci.yaml
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
